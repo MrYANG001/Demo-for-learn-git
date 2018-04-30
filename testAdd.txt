@@ -1,3 +1,4 @@
 test the add commind
 new version
 for slave1
+add slave1
