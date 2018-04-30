@@ -1,4 +1,3 @@
 test the add commind
-new version
-for slave1
+new versioni
 add slave1
